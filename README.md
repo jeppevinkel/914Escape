@@ -5,16 +5,26 @@
 - Ability to get teleported to a random location in the facility.
 - Ability to apply a damage penalty upon teleport
 
-# Default config:
+# Default Config:
 ```yaml
 escape_enabled: true # Enable or disable the plugin.
 escape_teleport_points: LC_CAFE,CROSSING # Possible teleport locations. (List at the bottom of page)
 escape_damage_human: 50 # Amount of damage done to humans.
 escape_damage_scp: 50 # Amount of damage done to SCPs.
 escape_damage_type: 0 # The type of damage done. (0 for percentage of current health, 1 for damage done in HP count)
+escape_914_setting: 1 # The 914 setting to trigger the teleport.
 ```
 
-# All teleport locations:
+# 914 Settings:
+```
+Rough = 0
+Coarse = 1
+One to One = 2
+Fine = 3
+Very Fine = 4
+```
+
+# All Teleport Tocations:
 ```
 topsite
 CROSSING
