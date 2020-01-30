@@ -1,0 +1,15 @@
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\SCP914Escape.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\SCP914Escape.pdb
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\0Harmony.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\Assembly-CSharp_publicized.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\EXILED.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\EXILED_Events.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\Mirror.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\Newtonsoft.Json.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\UnityEngine.CoreModule.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\bin\Debug\UnityEngine.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\obj\Debug\SCP914Escape.csprojAssemblyReference.cache
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\obj\Debug\SCP914Escape.csproj.CopyComplete
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\obj\Debug\SCP914Escape.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\obj\Debug\SCP914Escape.pdb
