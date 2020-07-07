@@ -24,7 +24,7 @@ Fine = 3
 Very Fine = 4
 ```
 
-# All Teleport Tocations:
+# All Teleport Locations:
 ```
 topsite
 CROSSING
