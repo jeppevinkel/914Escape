@@ -13,7 +13,7 @@ namespace SCP914Escape
 		public float humanDamage;
 		public float scpDamage;
 		public int damageType;
-		public bool debug;
+		public Scp914.Scp914Knob knobLevel;
 
 		public override void OnEnable()
 		{
@@ -45,6 +45,7 @@ namespace SCP914Escape
 			humanDamage = Config.GetFloat("escape_damage_human", 50);
 			scpDamage = Config.GetFloat("escape_damage_scp", 50);
 			damageType = Config.GetInt("escape_damage_type", 0);
+			knobLevel = (Scp914.Scp914Knob)Config.GetInt("escape_914_setting", 1);
 		}
 
 		public override void OnDisable()

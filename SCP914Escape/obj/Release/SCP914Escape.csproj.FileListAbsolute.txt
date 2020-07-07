@@ -1,0 +1,6 @@
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\Release\SCP914Escape.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\Release\SCP914Escape.pdb
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\obj\Release\SCP914Escape.csprojAssemblyReference.cache
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\obj\Release\SCP914Escape.csproj.CopyComplete
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\obj\Release\SCP914Escape.dll
+D:\jeppe\Documents\Visual Studio Projects\SCP914Escape-EXILED\SCP914Escape\obj\Release\SCP914Escape.pdb

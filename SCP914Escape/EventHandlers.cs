@@ -34,9 +34,10 @@ namespace SCP914Escape
 
         public void OnScp914Upgrade(ref SCP914UpgradeEvent ev)
         {
-            if (ev.KnobSetting != Scp914.Scp914Knob.Coarse && plugin.teleportPoints.Count >= 1) { return; }
+            if (ev.KnobSetting != plugin.knobLevel && plugin.teleportPoints.Count >= 1) { return; }
             Plugin.Debug($"SCP914 Teleport triggered.");
-            UnityEngine.GameObject[] rooms = UnityEngine.GameObject.FindGameObjectsWithTag("RoomID");
+            //UnityEngine.GameObject[] rooms = UnityEngine.GameObject.FindGameObjectsWithTag("RoomID");
+            Rid[] rooms = UnityEngine.Object.FindObjectsOfType<Rid>();
             Plugin.Debug($"Found {rooms.Length} rooms.");
             Plugin.Debug($"Existing rooms: ");
             foreach (var room in rooms)
@@ -53,10 +54,11 @@ namespace SCP914Escape
                     Plugin.Debug($"Possible rooms: {string.Join(", ", plugin.teleportPoints)}.");
                     string roomToUse = plugin.teleportPoints[random.Next(0, plugin.teleportPoints.Count)];
                     Plugin.Debug($"Using room: {roomToUse}.");
-                    foreach (UnityEngine.GameObject room in rooms)
+                    foreach (Rid room in rooms)
                     {
                         var pos = room.transform.position;
-                        var id = room.GetComponent<Rid>().id;
+                        //var id = room.GetComponent<Rid>().id;
+                        var id = room.id;
                         if (id == roomToUse)
                         {
                             _pos = new Vector3(pos.x, pos.y + 2, pos.z);

@@ -14,30 +14,20 @@ namespace SCP914Escape
 		public static List<string> ToList(this string s)
 		{
             if (s == null)
-
                 return null;
 
             List<string> dict = new List<string>();
 
             if (!s.Contains(","))
-
             {
-
                 dict.Add(s);
-
                 return dict;
-
             }
 
             string[] tl = s.Split(',');
 
             foreach (string t in tl)
-
-            {
-
                 dict.Add(t);
-
-            }
 
             return dict;
         }
