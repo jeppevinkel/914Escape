@@ -1,4 +1,4 @@
-# 914Escape
+# 914Escape (THIS PLUGIN IS NO LONGER UPDATED. [Common-Utillities](https://github.com/Exiled-Team/Common-Utils) NOW HAS THIS FUNCTIONALITY)
 914Escape is a plugins that allows the use of SCP-914 to escape when in an emergency.
 
 # Main Features
